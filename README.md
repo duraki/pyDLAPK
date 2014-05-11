@@ -12,9 +12,8 @@ Dependencies
 
 Usage
 ===
-
-	* Concept:- `$ python pydlpak.py https://play.google.com/url`  
-	* Example:- `$ python pydlapk.py https://play.google.com/store/apps/details?id=com.facebook.katana`  
+* Concept:- `$ python pydlpak.py https://play.google.com/url`  
+* Example:- `$ python pydlapk.py https://play.google.com/store/apps/details?id=com.facebook.katana`  
 
 ```
 $ python pydlapk.py https://play.google.com/store/apps/details?id=com.facebook.katana
